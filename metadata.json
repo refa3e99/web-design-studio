@@ -1,0 +1,6 @@
+{
+  "name": "Web Design Studio",
+  "description": "Modern, premium, sales-focused website for a freelance web developer or small web development studio targeting local businesses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
